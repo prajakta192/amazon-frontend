@@ -1,0 +1,21 @@
+{
+  "name": "amazon-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build" : "cd frontend && npm run build",
+    "start" :  "react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajakta192/amazon-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajakta192/amazon-frontend/issues"
+  },
+  "homepage": "https://github.com/prajakta192/amazon-frontend#readme"
+}
